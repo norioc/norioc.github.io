@@ -1,11 +1,11 @@
 # Site settings
-author: norio c
-title: 
+author: norioc
+title: flatiron blog
 header-img: img/home-bg.png
 email: norionorioc@gmail.com
-copyright_name: norio c
+copyright_name: norioc
 description: > # this means to ignore newlines until "baseurl:"
-  
+  journey at flatiron school
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  norioc
